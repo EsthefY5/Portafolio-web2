@@ -8,10 +8,13 @@ Fue desarrollado con HTML, CSS y JS con el uso de framework Bootstrap utilizando
 
 - Capturas de pantalla
 
-![Sección Yo](assets/1.png)
-![Sección Yo](assets/2.png)
-![Sección Yo](assets/3.png)
+![Sección Yo](assets/4.png)
+![Sección Yo](assets/5.png)
 
+Proyectos
+![Sección Yo](assets/6.png)
+![Sección Yo](assets/7.png)
+![Sección Yo](assets/8.png)
 
 
 - Tecnologías
